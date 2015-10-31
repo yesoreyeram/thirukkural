@@ -1,0 +1,12 @@
+<ol class="breadcrumb">
+  <li><a href="#/kural">Thirukkural</a></li>
+  <li class="active">{{SectionName}}</li>
+</ol>
+
+<div class="row">
+	<div class="col-md-12">
+		<ol>
+			<li ng-repeat="Paal in PaalList.Iyalgal"><a href="#/kural/{{SectionName}}/{{Paal.Name_Transliteration}}">{{Paal.Name}}</a></li>
+		</ol>
+	</div>
+</div>

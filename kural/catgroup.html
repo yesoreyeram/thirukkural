@@ -1,0 +1,12 @@
+<ol class="breadcrumb">
+  <li><a href="#/kural">Thirukkural</a></li>  
+  <li><a href="#/kural/{{SectionName}}">{{SectionName}}</a></li>
+  <li class="active">{{CatGroupName}}</li>
+</ol>
+<div class="row">
+	<div class="col-md-12">
+		<ol>
+			<li ng-repeat="CG in CatGrouplist.Adhigarangal"><a href="#/kural/{{SectionName}}/{{CatGroupName}}/{{CG.Name_Transliteration}}">{{CG.Name}}</a></li>
+		</ol>
+	</div>
+</div>

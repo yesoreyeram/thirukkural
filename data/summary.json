@@ -1,0 +1,931 @@
+[  
+   {  
+      "ID":"1",
+      "Name":"அறத்துப்பால்",
+      "Name_Transliteration":"Araththuppaal",
+      "Name_Short":"Aram",
+      "Name_English":"Virtue",
+      "Iyalgal":[  
+         {  
+            "ID":"1",
+            "Name":"பாயிரவியல்",
+            "Name_Transliteration":"Paayiraviyal",
+            "Name_English":"Prologue",
+            "Adhigarangal":[  
+               {  
+                  "ID":"1",
+                  "Name":"கடவுள் வாழ்த்து",
+                  "Name_Transliteration":"Katavul Vaazhththu",
+                  "Name_English":"The Praise of God"
+               },
+               {  
+                  "ID":"2",
+                  "Name":"வான்சிறப்பு",
+                  "Name_Transliteration":"Vaansirappu",
+                  "Name_English":"The Blessing of Rain"
+               },
+               {  
+                  "ID":"3",
+                  "Name":"நீத்தார் பெருமை",
+                  "Name_Transliteration":"Neeththaar Perumai",
+                  "Name_English":"The Greatness of Ascetics"
+               },
+               {  
+                  "ID":"4",
+                  "Name":"அறன் வலியுறுத்தல்",
+                  "Name_Transliteration":"Aran Valiyuruththal",
+                  "Name_English":"Assertion of the Strength of Virtue"
+               }
+            ]
+         },
+         {  
+            "ID":"2",
+            "Name":"இல்லறவியல்",
+            "Name_Transliteration":"Illaraviyal",
+            "Name_English":"Domestic Virtue",
+            "Adhigarangal":[  
+               {  
+                  "ID":"5",
+                  "Name":"இல்வாழ்க்கை",
+                  "Name_Transliteration":"Ilvaazhkkai",
+                  "Name_English":"Domestic Life"
+               },
+               {  
+                  "ID":"6",
+                  "Name":"வாழ்க்கைத் துணைநலம்",
+                  "Name_Transliteration":"Vaazhkkaith Thunainalam",
+                  "Name_English":"The Worth of a Wife"
+               },
+               {  
+                  "ID":"7",
+                  "Name":"மக்கட்பேறு",
+                  "Name_Transliteration":"Pudhalvaraip Perudhal",
+                  "Name_English":"The Wealth of Children"
+               },
+               {  
+                  "ID":"8",
+                  "Name":"அன்புடைமை",
+                  "Name_Transliteration":"Anputaimai",
+                  "Name_English":"The Possession of Love"
+               },
+               {  
+                  "ID":"9",
+                  "Name":"விருந்தோம்பல்",
+                  "Name_Transliteration":"Virundhompal",
+                  "Name_English":"Hospitality"
+               },
+               {  
+                  "ID":"10",
+                  "Name":"இனியவை கூறல்",
+                  "Name_Transliteration":"Iniyavaikooral",
+                  "Name_English":"The Utterance of Pleasant Words"
+               },
+               {  
+                  "ID":"11",
+                  "Name":"செய்ந்நன்றியறிதல்",
+                  "Name_Transliteration":"Seynnandri Aridhal",
+                  "Name_English":"Gratitude"
+               },
+               {  
+                  "ID":"12",
+                  "Name":"நடுவு நிலைமை",
+                  "Name_Transliteration":"Natuvu Nilaimai",
+                  "Name_English":"Impartiality"
+               },
+               {  
+                  "ID":"13",
+                  "Name":"அடக்கம் உடைமை",
+                  "Name_Transliteration":"Atakkamutaimai",
+                  "Name_English":"The Possession of Self-restraint"
+               },
+               {  
+                  "ID":"14",
+                  "Name":"ஒழுக்கம் உடைமை",
+                  "Name_Transliteration":"Ozhukkamutaimai",
+                  "Name_English":"The Possession of Decorum"
+               },
+               {  
+                  "ID":"15",
+                  "Name":"பிறனில் விழையாமை",
+                  "Name_Transliteration":"Piranil Vizhaiyaamai",
+                  "Name_English":"Not coveting another\u0027s Wife"
+               },
+               {  
+                  "ID":"16",
+                  "Name":"பொறையுடைமை",
+                  "Name_Transliteration":"Poraiyutaimai",
+                  "Name_English":"The Possession of Patience, Forbearance"
+               },
+               {  
+                  "ID":"17",
+                  "Name":"அழுக்காறாமை",
+                  "Name_Transliteration":"Azhukkaaraamai",
+                  "Name_English":"Not Envying"
+               },
+               {  
+                  "ID":"18",
+                  "Name":"வெஃகாமை",
+                  "Name_Transliteration":"Veqkaamai",
+                  "Name_English":"Not Coveting"
+               },
+               {  
+                  "ID":"19",
+                  "Name":"புறங்கூறாமை",
+                  "Name_Transliteration":"Purangooraamai",
+                  "Name_English":"Not Backbiting"
+               },
+               {  
+                  "ID":"20",
+                  "Name":"பயனில சொல்லாமை",
+                  "Name_Transliteration":"Payanila Sollaamai",
+                  "Name_English":"Against Vain Speaking"
+               },
+               {  
+                  "ID":"21",
+                  "Name":"தீவினையச்சம்",
+                  "Name_Transliteration":"Theevinaiyachcham",
+                  "Name_English":"Dread of Evil Deeds"
+               },
+               {  
+                  "ID":"22",
+                  "Name":"ஒப்புரவறிதல்",
+                  "Name_Transliteration":"Oppuravaridhal",
+                  "Name_English":"Duty to Society"
+               },
+               {  
+                  "ID":"23",
+                  "Name":"ஈகை",
+                  "Name_Transliteration":"Eekai",
+                  "Name_English":"Giving"
+               },
+               {  
+                  "ID":"24",
+                  "Name":"புகழ்",
+                  "Name_Transliteration":"Pukazh",
+                  "Name_English":"Renown"
+               }
+            ]
+         },
+         {  
+            "ID":"3",
+            "Name":"துறவறவியல்",
+            "Name_Transliteration":"Thuravaraviyal",
+            "Name_English":"Ascetic Virtue",
+            "Adhigarangal":[  
+               {  
+                  "ID":"25",
+                  "Name":"அருளுடைமை",
+                  "Name_Transliteration":"Arulutaimai",
+                  "Name_English":"Compassion"
+               },
+               {  
+                  "ID":"26",
+                  "Name":"புலால் மறுத்தல்",
+                  "Name_Transliteration":"Pulaanmaruththal",
+                  "Name_English":"Abstinence from Flesh"
+               },
+               {  
+                  "ID":"27",
+                  "Name":"தவம்",
+                  "Name_Transliteration":"Thavam",
+                  "Name_English":"Penance"
+               },
+               {  
+                  "ID":"28",
+                  "Name":"கூடா ஒழுக்கம்",
+                  "Name_Transliteration":"Kootaavozhukkam",
+                  "Name_English":"Imposture"
+               },
+               {  
+                  "ID":"29",
+                  "Name":"கள்ளாமை",
+                  "Name_Transliteration":"Kallaamai",
+                  "Name_English":"The Absence of Fraud"
+               },
+               {  
+                  "ID":"30",
+                  "Name":"வாய்மை",
+                  "Name_Transliteration":"Vaaimai",
+                  "Name_English":"Veracity"
+               },
+               {  
+                  "ID":"31",
+                  "Name":"வெகுளாமை",
+                  "Name_Transliteration":"Vekulaamai",
+                  "Name_English":"Restraining Anger"
+               },
+               {  
+                  "ID":"32",
+                  "Name":"இன்னா செய்யாமை",
+                  "Name_Transliteration":"Innaaseyyaamai",
+                  "Name_English":"Not doing Evil"
+               },
+               {  
+                  "ID":"33",
+                  "Name":"கொல்லாமை",
+                  "Name_Transliteration":"Kollaamai",
+                  "Name_English":"Not killing"
+               },
+               {  
+                  "ID":"34",
+                  "Name":"நிலையாமை",
+                  "Name_Transliteration":"Nilaiyaamai",
+                  "Name_English":"Instability"
+               },
+               {  
+                  "ID":"35",
+                  "Name":"துறவு",
+                  "Name_Transliteration":"Thuravu",
+                  "Name_English":"Renunciation"
+               },
+               {  
+                  "ID":"36",
+                  "Name":"மெய்யுணர்தல்",
+                  "Name_Transliteration":"Meyyunardhal",
+                  "Name_English":"Truth-Conciousness"
+               },
+               {  
+                  "ID":"37",
+                  "Name":"அவா அறுத்தல்",
+                  "Name_Transliteration":"Avaavaruththal",
+                  "Name_English":"Curbing of Desire"
+               }
+            ]
+         },
+         {  
+            "ID":"4",
+            "Name":"ஊழியல்",
+            "Name_Transliteration":"Oozhiyal",
+            "Name_English":"Fate",
+            "Adhigarangal":[  
+               {  
+                  "ID":"38",
+                  "Name":"ஊழ்",
+                  "Name_Transliteration":"Oozh",
+                  "Name_English":"Fate"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "ID":"2",
+      "Name":"பொருட்பால்",
+      "Name_Transliteration":"Porutpaal",
+      "Name_Short":"Porul",
+      "Name_English":"Wealth",
+      "Iyalgal":[  
+         {  
+            "ID":"5",
+            "Name":"அரசியல்",
+            "Name_Transliteration":"Arasiyal",
+            "Name_English":"Royalty",
+            "Adhigarangal":[  
+               {  
+                  "ID":"39",
+                  "Name":"இறைமாட்சி",
+                  "Name_Transliteration":"Iraimaatchi",
+                  "Name_English":"The Greatness of a King"
+               },
+               {  
+                  "ID":"40",
+                  "Name":"கல்வி",
+                  "Name_Transliteration":"Kalvi",
+                  "Name_English":"Learning"
+               },
+               {  
+                  "ID":"41",
+                  "Name":"கல்லாமை",
+                  "Name_Transliteration":"Kallaamai",
+                  "Name_English":"Ignorance"
+               },
+               {  
+                  "ID":"42",
+                  "Name":"கேள்வி",
+                  "Name_Transliteration":"Kelvi",
+                  "Name_English":"Hearing"
+               },
+               {  
+                  "ID":"43",
+                  "Name":"அறிவுடைமை",
+                  "Name_Transliteration":"Arivutaimai",
+                  "Name_English":"The Possession of Knowledge"
+               },
+               {  
+                  "ID":"44",
+                  "Name":"குற்றங்கடிதல்",
+                  "Name_Transliteration":"Kutrangatidhal",
+                  "Name_English":"The Correction of Faults"
+               },
+               {  
+                  "ID":"45",
+                  "Name":"பெரியாரைத் துணைக்கோடல்",
+                  "Name_Transliteration":"Periyaaraith Thunaikkotal",
+                  "Name_English":"Seeking the Aid of Great Men"
+               },
+               {  
+                  "ID":"46",
+                  "Name":"சிற்றினம் சேராமை",
+                  "Name_Transliteration":"Sitrinanjeraamai",
+                  "Name_English":"Avoiding mean Associations"
+               },
+               {  
+                  "ID":"47",
+                  "Name":"தெரிந்து செயல்வகை",
+                  "Name_Transliteration":"Therindhuseyalvakai",
+                  "Name_English":"Acting after due Consideration"
+               },
+               {  
+                  "ID":"48",
+                  "Name":"வலியறிதல்",
+                  "Name_Transliteration":"Valiyaridhal",
+                  "Name_English":"The Knowledge of Power"
+               },
+               {  
+                  "ID":"49",
+                  "Name":"காலமறிதல்",
+                  "Name_Transliteration":"Kaalamaridhal",
+                  "Name_English":"Knowing the fitting Time"
+               },
+               {  
+                  "ID":"50",
+                  "Name":"இடனறிதல்",
+                  "Name_Transliteration":"Itanaridhal",
+                  "Name_English":"Knowing the Place"
+               },
+               {  
+                  "ID":"51",
+                  "Name":"தெரிந்து தெளிதல்",
+                  "Name_Transliteration":"Therindhudhelidhal",
+                  "Name_English":"Selection and Confidence"
+               },
+               {  
+                  "ID":"52",
+                  "Name":"தெரிந்து வினையாடல்",
+                  "Name_Transliteration":"Therindhuvinaiyaatal",
+                  "Name_English":"Selection and Employment"
+               },
+               {  
+                  "ID":"53",
+                  "Name":"சுற்றந் தழால்",
+                  "Name_Transliteration":"Sutrandhazhaal",
+                  "Name_English":"Cherishing Kinsmen"
+               },
+               {  
+                  "ID":"54",
+                  "Name":"பொச்சாவாமை",
+                  "Name_Transliteration":"Pochchaavaamai",
+                  "Name_English":"Unforgetfulness"
+               },
+               {  
+                  "ID":"55",
+                  "Name":"செங்கோன்மை",
+                  "Name_Transliteration":"Sengonmai",
+                  "Name_English":"The Right Sceptre"
+               },
+               {  
+                  "ID":"56",
+                  "Name":"கொடுங்கோன்மை",
+                  "Name_Transliteration":"Kotungonmai",
+                  "Name_English":"The Cruel Sceptre"
+               },
+               {  
+                  "ID":"57",
+                  "Name":"வெருவந்த செய்யாமை",
+                  "Name_Transliteration":"Veruvandhaseyyaamai",
+                  "Name_English":"Absence of Terrorism"
+               },
+               {  
+                  "ID":"58",
+                  "Name":"கண்ணோட்டம்",
+                  "Name_Transliteration":"Kannottam",
+                  "Name_English":"Benignity"
+               },
+               {  
+                  "ID":"59",
+                  "Name":"ஒற்றாடல்",
+                  "Name_Transliteration":"Otraatal",
+                  "Name_English":"Detectives"
+               },
+               {  
+                  "ID":"60",
+                  "Name":"ஊக்கம் உடைமை",
+                  "Name_Transliteration":"Ookkamutaimai",
+                  "Name_English":"Energy"
+               },
+               {  
+                  "ID":"61",
+                  "Name":"மடி இன்மை",
+                  "Name_Transliteration":"Matiyinmai",
+                  "Name_English":"Unsluggishness"
+               },
+               {  
+                  "ID":"62",
+                  "Name":"ஆள்வினை உடைமை",
+                  "Name_Transliteration":"Aalvinaiyutaimai",
+                  "Name_English":"Manly Effort"
+               },
+               {  
+                  "ID":"63",
+                  "Name":"இடுக்கண் அழியாமை",
+                  "Name_Transliteration":"Itukkan Azhiyaamai",
+                  "Name_English":"Hopefulness in Trouble"
+               }
+            ]
+         },
+         {  
+            "ID":"6",
+            "Name":"அமைச்சியல்",
+            "Name_Transliteration":"Amaichiyal",
+            "Name_English":"Ministers of State",
+            "Adhigarangal":[  
+               {  
+                  "ID":"64",
+                  "Name":"அமைச்சு",
+                  "Name_Transliteration":"Amaichchu",
+                  "Name_English":"The Office of Minister of state"
+               },
+               {  
+                  "ID":"65",
+                  "Name":"சொல்வன்மை",
+                  "Name_Transliteration":"Solvanmai",
+                  "Name_English":"Power of Speech"
+               },
+               {  
+                  "ID":"66",
+                  "Name":"வினைத் தூய்மை",
+                  "Name_Transliteration":"Vinaiththooimai",
+                  "Name_English":"Purity in Action"
+               },
+               {  
+                  "ID":"67",
+                  "Name":"வினைத்திட்பம்",
+                  "Name_Transliteration":"Vinaiththitpam",
+                  "Name_English":"Power in Action"
+               },
+               {  
+                  "ID":"68",
+                  "Name":"வினை செயல்வகை",
+                  "Name_Transliteration":"Vinaiseyalvakai",
+                  "Name_English":"Modes of Action"
+               },
+               {  
+                  "ID":"69",
+                  "Name":"தூது",
+                  "Name_Transliteration":"Thoodhu",
+                  "Name_English":"The Envoy"
+               },
+               {  
+                  "ID":"70",
+                  "Name":"மன்னரைச் சேர்ந்து ஒழுகல்",
+                  "Name_Transliteration":"Mannaraich Cherndhozhudhal",
+                  "Name_English":"Conduct in the Presence of the King"
+               },
+               {  
+                  "ID":"71",
+                  "Name":"குறிப்பறிதல்",
+                  "Name_Transliteration":"Kuripparidhal",
+                  "Name_English":"The Knowledge of Indications"
+               },
+               {  
+                  "ID":"72",
+                  "Name":"அவை அறிதல்",
+                  "Name_Transliteration":"Avaiyaridhal",
+                  "Name_English":"The Knowledge of the Council Chamber"
+               },
+               {  
+                  "ID":"73",
+                  "Name":"அவை அஞ்சாமை",
+                  "Name_Transliteration":"Avaiyanjaamai",
+                  "Name_English":"Not to dread the Council"
+               }
+            ]
+         },
+         {  
+            "ID":"7",
+            "Name":"அரணியல்",
+            "Name_Transliteration":"Araniyal",
+            "Name_English":"The Essentials of a State",
+            "Adhigarangal":[  
+               {  
+                  "ID":"74",
+                  "Name":"நாடு",
+                  "Name_Transliteration":"Naatu",
+                  "Name_English":"The Land"
+               },
+               {  
+                  "ID":"75",
+                  "Name":"அரண்",
+                  "Name_Transliteration":"Aran",
+                  "Name_English":"The Fortification"
+               }
+            ]
+         },
+         {  
+            "ID":"8",
+            "Name":"கூழியல்",
+            "Name_Transliteration":"Koozhiyal",
+            "Name_English":"Way of Making Wealth",
+            "Adhigarangal":[  
+               {  
+                  "ID":"76",
+                  "Name":"பொருள் செயல்வகை",
+                  "Name_Transliteration":"Porulseyalvakai",
+                  "Name_English":"Way of Accumulating Wealth"
+               }
+            ]
+         },
+         {  
+            "ID":"9",
+            "Name":"படையியல்",
+            "Name_Transliteration":"Padaiyil",
+            "Name_English":"The Excellence of an Army",
+            "Adhigarangal":[  
+               {  
+                  "ID":"77",
+                  "Name":"படை மாட்சி",
+                  "Name_Transliteration":"Pataimaatchi",
+                  "Name_English":"The Excellence of an Army"
+               },
+               {  
+                  "ID":"78",
+                  "Name":"படைச் செருக்கு",
+                  "Name_Transliteration":"Pataichcherukku",
+                  "Name_English":"Military Spirit"
+               }
+            ]
+         },
+         {  
+            "ID":"10",
+            "Name":"நட்பியல்",
+            "Name_Transliteration":"Natpiyal",
+            "Name_English":"Friendship",
+            "Adhigarangal":[  
+               {  
+                  "ID":"79",
+                  "Name":"நட்பு",
+                  "Name_Transliteration":"Natpu",
+                  "Name_English":"Friendship"
+               },
+               {  
+                  "ID":"80",
+                  "Name":"நட்பாராய்தல்",
+                  "Name_Transliteration":"Natpaaraaidhal",
+                  "Name_English":"Investigation in forming Friendships"
+               },
+               {  
+                  "ID":"81",
+                  "Name":"பழைமை",
+                  "Name_Transliteration":"Pazhaimai",
+                  "Name_English":"Familiarity"
+               },
+               {  
+                  "ID":"82",
+                  "Name":"தீ நட்பு",
+                  "Name_Transliteration":"Thee Natpu",
+                  "Name_English":"Evil Friendship"
+               },
+               {  
+                  "ID":"83",
+                  "Name":"கூடா நட்பு",
+                  "Name_Transliteration":"Kootaanatpu",
+                  "Name_English":"Unreal Friendship"
+               },
+               {  
+                  "ID":"84",
+                  "Name":"பேதைமை",
+                  "Name_Transliteration":"Pedhaimai",
+                  "Name_English":"Folly"
+               },
+               {  
+                  "ID":"85",
+                  "Name":"புல்லறிவாண்மை",
+                  "Name_Transliteration":"Pullarivaanmai",
+                  "Name_English":"Ignorance"
+               },
+               {  
+                  "ID":"86",
+                  "Name":"இகல்",
+                  "Name_Transliteration":"Ikal",
+                  "Name_English":"Hostility"
+               },
+               {  
+                  "ID":"87",
+                  "Name":"பகை மாட்சி",
+                  "Name_Transliteration":"Pakaimaatchi",
+                  "Name_English":"The Might of Hatred"
+               },
+               {  
+                  "ID":"88",
+                  "Name":"பகைத்திறம் தெரிதல்",
+                  "Name_Transliteration":"Pakaiththirandheridhal",
+                  "Name_English":"Knowing the Quality of Hate"
+               },
+               {  
+                  "ID":"89",
+                  "Name":"உட்பகை",
+                  "Name_Transliteration":"Utpakai",
+                  "Name_English":"Enmity within"
+               },
+               {  
+                  "ID":"90",
+                  "Name":"பெரியாரைப் பிழையாமை",
+                  "Name_Transliteration":"Periyaaraip Pizhaiyaamai",
+                  "Name_English":"Not Offending the Great"
+               },
+               {  
+                  "ID":"91",
+                  "Name":"பெண்வழிச் சேறல்",
+                  "Name_Transliteration":"Penvazhichcheral",
+                  "Name_English":"Being led by Women"
+               },
+               {  
+                  "ID":"92",
+                  "Name":"வரைவின் மகளிர்",
+                  "Name_Transliteration":"Varaivinmakalir",
+                  "Name_English":"Wanton Women"
+               },
+               {  
+                  "ID":"93",
+                  "Name":"கள்ளுண்ணாமை",
+                  "Name_Transliteration":"Kallunnaamai",
+                  "Name_English":"Not Drinking Palm-Wine"
+               },
+               {  
+                  "ID":"94",
+                  "Name":"சூது",
+                  "Name_Transliteration":"Soodhu",
+                  "Name_English":"Gambling"
+               },
+               {  
+                  "ID":"95",
+                  "Name":"மருந்து",
+                  "Name_Transliteration":"Marundhu",
+                  "Name_English":"Medicine"
+               }
+            ]
+         },
+         {  
+            "ID":"11",
+            "Name":"குடியியல்",
+            "Name_Transliteration":"Kudiyiyal",
+            "Name_English":"Miscellaneous",
+            "Adhigarangal":[  
+               {  
+                  "ID":"96",
+                  "Name":"குடிமை",
+                  "Name_Transliteration":"Kutimai",
+                  "Name_English":"Nobility"
+               },
+               {  
+                  "ID":"97",
+                  "Name":"மானம்",
+                  "Name_Transliteration":"Maanam",
+                  "Name_English":"Honour"
+               },
+               {  
+                  "ID":"98",
+                  "Name":"பெருமை",
+                  "Name_Transliteration":"Perumai",
+                  "Name_English":"Greatness"
+               },
+               {  
+                  "ID":"99",
+                  "Name":"சான்றாண்மை",
+                  "Name_Transliteration":"Saandraanmai",
+                  "Name_English":"Perfectness"
+               },
+               {  
+                  "ID":"100",
+                  "Name":"பண்புடைமை",
+                  "Name_Transliteration":"Panputaimai",
+                  "Name_English":"Courtesy"
+               },
+               {  
+                  "ID":"101",
+                  "Name":"நன்றியில் செல்வம்",
+                  "Name_Transliteration":"Nandriyilselvam",
+                  "Name_English":"Wealth without Benefaction"
+               },
+               {  
+                  "ID":"102",
+                  "Name":"நாணுடைமை",
+                  "Name_Transliteration":"Naanutaimai",
+                  "Name_English":"Shame"
+               },
+               {  
+                  "ID":"103",
+                  "Name":"குடிசெயல் வகை",
+                  "Name_Transliteration":"Kutiseyalvakai",
+                  "Name_English":"The Way of Maintaining the Family"
+               },
+               {  
+                  "ID":"104",
+                  "Name":"உழவு",
+                  "Name_Transliteration":"Uzhavu",
+                  "Name_English":"Farming"
+               },
+               {  
+                  "ID":"105",
+                  "Name":"நல்குரவு",
+                  "Name_Transliteration":"Nalkuravu",
+                  "Name_English":"Poverty"
+               },
+               {  
+                  "ID":"106",
+                  "Name":"இரவு",
+                  "Name_Transliteration":"Iravu",
+                  "Name_English":"Mendicancy"
+               },
+               {  
+                  "ID":"107",
+                  "Name":"இரவச்சம்",
+                  "Name_Transliteration":"Iravachcham",
+                  "Name_English":"The Dread of Mendicancy"
+               },
+               {  
+                  "ID":"108",
+                  "Name":"கயமை",
+                  "Name_Transliteration":"Kayamai",
+                  "Name_English":"Baseness"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "ID":"3",
+      "Name":"காமத்துப்பால்",
+      "Name_Transliteration":"Kaamaththuppaal",
+      "Name_Short":"Kaamam",
+      "Name_English":"Love",
+      "Iyalgal":[  
+         {  
+            "ID":"12",
+            "Name":"களவியல்",
+            "Name_Transliteration":"Kalaviyal",
+            "Name_English":"The Pre-marital love",
+            "Adhigarangal":[  
+               {  
+                  "ID":"109",
+                  "Name":"தகை அணங்குறுத்தல்",
+                  "Name_Transliteration":"Thakaiyananguruththal",
+                  "Name_English":"The Pre-marital love"
+               },
+               {  
+                  "ID":"110",
+                  "Name":"குறிப்பறிதல்",
+                  "Name_Transliteration":"Kuripparidhal",
+                  "Name_English":"Recognition of the Signs"
+               },
+               {  
+                  "ID":"111",
+                  "Name":"புணர்ச்சி மகிழ்தல்",
+                  "Name_Transliteration":"Punarchchimakizhdhal",
+                  "Name_English":"Rejoicing in the Embrace"
+               },
+               {  
+                  "ID":"112",
+                  "Name":"நலம் புனைந்து உரைத்தல்",
+                  "Name_Transliteration":"Nalampunaindhuraiththal",
+                  "Name_English":"The Praise of her Beauty"
+               },
+               {  
+                  "ID":"113",
+                  "Name":"காதற் சிறப்புரைத்தல்",
+                  "Name_Transliteration":"Kaadharsirappuraiththal",
+                  "Name_English":"Declaration of Love\u0027s special Excellence"
+               },
+               {  
+                  "ID":"114",
+                  "Name":"நாணுத் துறவுரைத்தல்",
+                  "Name_Transliteration":"Naanuththuravuraiththal",
+                  "Name_English":"The Abandonment of Reserve"
+               },
+               {  
+                  "ID":"115",
+                  "Name":"அலர் அறிவுறுத்தல்",
+                  "Name_Transliteration":"Alararivuruththal",
+                  "Name_English":"The Announcement of the Rumour"
+               }
+            ]
+         },
+         {  
+            "ID":"13",
+            "Name":"கற்பியல்",
+            "Name_Transliteration":"Karpiyal",
+            "Name_English":"The Post-marital love",
+            "Adhigarangal":[  
+               {  
+                  "ID":"116",
+                  "Name":"பிரிவு ஆற்றாமை",
+                  "Name_Transliteration":"Pirivaatraamai",
+                  "Name_English":"Separation unendurable"
+               },
+               {  
+                  "ID":"117",
+                  "Name":"படர்மெலிந் திரங்கல்",
+                  "Name_Transliteration":"Patarmelindhirangal",
+                  "Name_English":"Complainings"
+               },
+               {  
+                  "ID":"118",
+                  "Name":"கண் விதுப்பழிதல்",
+                  "Name_Transliteration":"Kanvidhuppazhidhal",
+                  "Name_English":"Eyes consumed with Grief"
+               },
+               {  
+                  "ID":"119",
+                  "Name":"பசப்புறு பருவரல்",
+                  "Name_Transliteration":"Pasapparuparuvaral",
+                  "Name_English":"The Pallid Hue"
+               },
+               {  
+                  "ID":"120",
+                  "Name":"தனிப்படர் மிகுதி",
+                  "Name_Transliteration":"Thanippatarmikudhi",
+                  "Name_English":"The Solitary Anguish"
+               },
+               {  
+                  "ID":"121",
+                  "Name":"நினைந்தவர் புலம்பல்",
+                  "Name_Transliteration":"Ninaindhavarpulampal",
+                  "Name_English":"Sad Memories"
+               },
+               {  
+                  "ID":"122",
+                  "Name":"கனவுநிலை உரைத்தல்",
+                  "Name_Transliteration":"Kanavunilaiyuraiththal",
+                  "Name_English":"The Visions of the Night"
+               },
+               {  
+                  "ID":"123",
+                  "Name":"பொழுதுகண்டு இரங்கல்",
+                  "Name_Transliteration":"Pozhudhukantirangal",
+                  "Name_English":"Lamentations at Eventide"
+               },
+               {  
+                  "ID":"124",
+                  "Name":"உறுப்புநலன் அழிதல்",
+                  "Name_Transliteration":"Uruppunalanazhidhal",
+                  "Name_English":"Wasting Away"
+               },
+               {  
+                  "ID":"125",
+                  "Name":"நெஞ்சொடு கிளத்தல்",
+                  "Name_Transliteration":"Nenjotukilaththal",
+                  "Name_English":"Soliloquy"
+               },
+               {  
+                  "ID":"126",
+                  "Name":"நிறையழிதல்",
+                  "Name_Transliteration":"Niraiyazhidhal",
+                  "Name_English":"Reserve Overcome"
+               },
+               {  
+                  "ID":"127",
+                  "Name":"அவர்வயின் விதும்பல்",
+                  "Name_Transliteration":"Avarvayinvidhumpal",
+                  "Name_English":"Mutual Desire"
+               },
+               {  
+                  "ID":"128",
+                  "Name":"குறிப்பறிவுறுத்தல்",
+                  "Name_Transliteration":"Kuripparivuruththal",
+                  "Name_English":"The Reading of the Signs"
+               },
+               {  
+                  "ID":"129",
+                  "Name":"புணர்ச்சி விதும்பல்",
+                  "Name_Transliteration":"Punarchchividhumpal",
+                  "Name_English":"Desire for Reunion"
+               },
+               {  
+                  "ID":"130",
+                  "Name":"நெஞ்சொடு புலத்தல்",
+                  "Name_Transliteration":"Nenjotupulaththal",
+                  "Name_English":"Expostulation with Oneself"
+               },
+               {  
+                  "ID":"131",
+                  "Name":"புலவி",
+                  "Name_Transliteration":"Pulavi",
+                  "Name_English":"Pouting"
+               },
+               {  
+                  "ID":"132",
+                  "Name":"புலவி நுணுக்கம்",
+                  "Name_Transliteration":"Pulavi Nunukkam",
+                  "Name_English":"Feigned Anger"
+               },
+               {  
+                  "ID":"133",
+                  "Name":"ஊடலுவகை",
+                  "Name_Transliteration":"Ootaluvakai",
+                  "Name_English":"The Pleasures of Temporary Variance"
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,13 @@
+<ol class="breadcrumb">
+  <li><a href="#/kural">Thirukkural</a></li>  
+  <li><a href="#/kural/{{SectionName}}">{{SectionName}}</a></li>
+  <li><a href="#/kural/{{SectionName}}/{{CatGroupName}}">{{CatGroupName}}</a></li>
+  <li class="active">{{CategoryName}}</li>
+</ol>
+<div class="row">
+	<div class="col-md-12">
+		<ol>
+			<li ng-repeat="kural in Kuralgal"><a href="#/kural/{{SectionName}}/{{CatGroupName}}/{{CategoryName}}/{{kural.ID}}">{{kural.Kural}}</a></li>
+		</ol>
+	</div>
+</div>
