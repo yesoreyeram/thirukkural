@@ -45,7 +45,7 @@ browserModule.config(['$routeProvider', function($routeProvider) {
 }]);
 browserModule.controller('KuralBrowserCtrl',["$scope","$http",function($scope,$http){
 	$scope.Welcome ="Thirukkural list";
-	$http.get('data/Summary.json').success(function(data)
+	$http.get('data/summary.json').success(function(data)
 	{
     	$scope.KuralList = data;
   	});
@@ -53,7 +53,7 @@ browserModule.controller('KuralBrowserCtrl',["$scope","$http",function($scope,$h
 browserModule.controller('PaalCtrl',["$scope","$http","$routeParams",function($scope,$http,$routeParams){
 	$scope.Welcome ="Thirukkural list";
 	$scope.SectionName = $routeParams.SectionName;
-	$http.get('data/Summary.json').success(function(data)
+	$http.get('data/summary.json').success(function(data)
 	{
 		$scope.PaalList = _.filter(data,function(item){return item.Name_Transliteration == $scope.SectionName})[0];
   	});
@@ -62,7 +62,7 @@ browserModule.controller('CatGrpCtrl',["$scope","$http","$routeParams",function(
 	$scope.Welcome ="Thirukkural list";
 	$scope.SectionName = $routeParams.SectionName;
 	$scope.CatGroupName = $routeParams.CatGroupName;
-	$http.get('data/Summary.json').success(function(data)
+	$http.get('data/summary.json').success(function(data)
 	{
 		$scope.Paalist = _.filter(data,function(item){return item.Name_Transliteration == $scope.SectionName})[0];
 		$scope.CatGrouplist = _.filter($scope.Paalist.Iyalgal,function(item){return item.Name_Transliteration == $scope.CatGroupName})[0];
@@ -90,7 +90,7 @@ browserModule.controller('KuralCtrl',["$scope","$http","$routeParams",function($
 	$scope.CatGroupName = $routeParams.CatGroupName;
 	$scope.CategoryName = $routeParams.CategoryName;
 	$scope.KuralID = $routeParams.KuralID;
-	$http.get('data/Summary.json').success(function(data)
+	$http.get('data/summary.json').success(function(data)
 	{
 		$scope.Paalist = _.filter(data,function(item){return item.Name_Transliteration == $scope.SectionName})[0];
 		$scope.CatGrouplist = _.filter($scope.Paalist.Iyalgal,function(item){return item.Name_Transliteration == $scope.CatGroupName})[0];
