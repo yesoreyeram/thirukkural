@@ -73,7 +73,7 @@ browserModule.controller('CategoryCtrl',["$scope","$http","$routeParams",functio
 	$scope.SectionName = $routeParams.SectionName;
 	$scope.CatGroupName = $routeParams.CatGroupName;
 	$scope.CategoryName = $routeParams.CategoryName;
-	$http.get('data/Summary.json').success(function(data)
+	$http.get('data/summary.json').success(function(data)
 	{
 		$scope.Paalist = _.filter(data,function(item){return item.Name_Transliteration == $scope.SectionName})[0];
 		$scope.CatGrouplist = _.filter($scope.Paalist.Iyalgal,function(item){return item.Name_Transliteration == $scope.CatGroupName})[0];
